@@ -1,6 +1,8 @@
 # React 1주차 과제
 
-[figma 링크](https://www.figma.com/file/HI2qHKkpElxkgQihdvzd0N/%EC%95%84%ED%86%A0%EB%AF%B9-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8?type=design&node-id=0%3A1&mode=design&t=lZYvPE5UX582cHvi-1)
+- [figma 링크](https://www.figma.com/file/HI2qHKkpElxkgQihdvzd0N/%EC%95%84%ED%86%A0%EB%AF%B9-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8?type=design&node-id=0%3A1&mode=design&t=lZYvPE5UX582cHvi-1)
+
+![react-homework-toggle](https://github.com/cfgop23/react-homework/assets/103302206/7045beaf-2c17-4df3-a6ff-0bbbff5b7c21)
 
 ```jsx
 const [isActive, setIsActive] = useState(false);
