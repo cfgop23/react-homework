@@ -8,15 +8,15 @@ function Toggle({ isActive, onClick }) {
       title={isActive ? "토글 켜짐" : "토글 꺼짐"}
       onClick={onClick}
     >
-      <div
+      <span
         className={`${styles.rectangle} ${
           isActive ? styles.rectangleActive : ""
         }`}
       >
-        <div
+        <span
           className={`${styles.circle} ${isActive ? styles.circleActive : ""}`}
-        ></div>
-      </div>
+        ></span>
+      </span>
     </button>
   );
 }
